@@ -1,0 +1,1 @@
+insert into notice (content, title) values ('this is test content1', 'this is1 test notice title1'), ('this is test content2', 'this is test notice title2'), ('this is test content3', 'this is test notice title3');
